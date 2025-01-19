@@ -3,7 +3,7 @@
 I’m @mariananeri<br><br>
 😄 Pronouns: she/her<br>
 🐶 Bart's human<br>
-🌱 I’m currently learning CSS, JS, PHP and Python. (This is my pixel sandbox)<br><br>
+🌱 Learning: CSS, JS, PHP and Python.<br><br>
 
 :brazil: From Brazil<br>
 :canada: Living in Montreal, QC (since 2018)<br><br>
